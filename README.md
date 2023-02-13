@@ -1,5 +1,5 @@
 # Salaries-Among-people-in-the-IT-department
-This is a summarization of the survey that compared salaries among people in the IT department
+This is a summary of the survey that compared salaries among people in the IT department
 The file in this repository is the data I used
 the link to the final results:https://tabsoft.co/3QUqb9j
 The goals of the project:
